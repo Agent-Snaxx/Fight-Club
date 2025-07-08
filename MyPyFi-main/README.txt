@@ -1,28 +1,49 @@
-REMIX DEFAULT WORKSPACE
 
-Remix default workspace is present when:
-i. Remix loads for the very first time 
-ii. A new workspace is created with 'Default' template
-iii. There are no files existing in the File Explorer
 
-This workspace contains 3 directories:
+#MyPyFi
 
-1. 'contracts': Holds three contracts with increasing levels of complexity.
-2. 'scripts': Contains four typescript files to deploy a contract. It is explained below.
-3. 'tests': Contains one Solidity test file for 'Ballot' contract & one JS test file for 'Storage' contract.
+# MIT License
+#
+# Copyright (c) 2024 Agent_Snaxx
+# Email: snaxxagent@gmail.com | X: @Agent_Snaxx | GitHub: Agent-Snaxx  Repo:Fight Club #AGI BOT #agentOnly
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
 
-SCRIPTS
+#READ DISCLAIMER-------------------------------------------------------------------------------------------
 
-The 'scripts' folder has four typescript files which help to deploy the 'Storage' contract using 'web3.js' and 'ethers.js' libraries.
+#This project is provided for educational and experimental purposes only.
+#It is not financial advice, not an investment product, and not a commercial offering.
+#Use at your own risk.
 
-For the deployment of any other contract, just update the contract name from 'Storage' to the desired contract and provide constructor arguments accordingly 
-in the file `deploy_with_ethers.ts` or  `deploy_with_web3.ts`
+#The architecture is intended for builders, developers, and technically capable users
+#who understand the risks of automated trading, smart contracts, and capital exposure.
 
-In the 'tests' folder there is a script containing Mocha-Chai unit tests for 'Storage' contract.
+#There are no profit guarantees.  
+#No strategy is foolproof.  
+#No agent is immune to failure.
 
-To run a script, right click on file name in the file explorer and click 'Run'. Remember, Solidity file must already be compiled.
-Output from script will appear in remix terminal.
+#Do not deploy without testing.
+#Do not trade without logging.
+#Do not sleep on your own assumptions.
 
-Please note, require/import is supported in a limited manner for Remix supported modules.
-For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes, remix and hardhat only for hardhat.ethers object/plugin.
-For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
+#You are the architect.
+#This system is your tool — not your replacement.
+#Assist, not automate. Observe, not override.
+
+#USE IT- OWN IT- FORK IT- FUCK IT -WRECK IT - RESET IT - REPEAT IT
