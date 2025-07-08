@@ -1,0 +1,7392 @@
+7/06/25 18:57:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17141
+5.7 DOGE
+98.436%
+--
+$0.98436
+Filled
+7/06/25 18:56:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17143
+5.8 DOGE
+100%
+--
+$0.98684
+Filled
+7/06/25 18:56:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17146
+5.7 DOGE
+98.465%
+--
+$0.98465
+Filled
+7/06/25 18:55:08
+Default
+DOGE-USD
+Market
+Sell
+$0.17136
+5.8 DOGE
+100%
+--
+$0.98643
+Filled
+7/06/25 18:54:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17148
+5.7 DOGE
+98.476%
+--
+$0.98477
+Filled
+7/06/25 18:54:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17136
+5.8 DOGE
+100%
+--
+$0.98643
+Filled
+7/06/25 18:51:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17140
+5.7 DOGE
+98.43%
+--
+$0.98431
+Filled
+7/06/25 18:50:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17137
+5.8 DOGE
+100%
+--
+$0.98649
+Filled
+7/06/25 18:49:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17144
+5.7 DOGE
+98.453%
+--
+$0.98454
+Filled
+7/06/25 18:47:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17143
+5.8 DOGE
+100%
+--
+$0.98684
+Filled
+7/06/25 18:45:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17155
+5.7 DOGE
+98.516%
+--
+$0.98517
+Filled
+7/06/25 18:39:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17162
+5.8 DOGE
+100%
+--
+$0.98793
+Filled
+7/06/25 18:35:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17143
+5.7 DOGE
+98.447%
+--
+$0.98448
+Filled
+7/06/25 18:35:07
+Default
+DOGE-USD
+Market
+Sell
+$0.17132
+5.8 DOGE
+100%
+--
+$0.98620
+Filled
+7/06/25 18:27:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17082
+5.8 DOGE
+99.818%
+--
+$0.99819
+Filled
+7/06/25 18:27:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17072
+5.8 DOGE
+100%
+--
+$0.98275
+Filled
+7/06/25 18:25:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17082
+5.8 DOGE
+99.818%
+--
+$0.99819
+Filled
+7/06/25 18:22:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17081
+5.8 DOGE
+100%
+--
+$0.98327
+Filled
+7/06/25 18:22:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17091
+5.8 DOGE
+99.871%
+--
+$0.99871
+Filled
+7/06/25 18:21:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17094
+5.8 DOGE
+100%
+--
+$0.98402
+Filled
+7/06/25 18:16:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17038
+5.8 DOGE
+99.561%
+--
+$0.99562
+Filled
+7/06/25 18:15:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17032
+5.8 DOGE
+100%
+--
+$0.98045
+Filled
+7/06/25 18:14:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17059
+5.8 DOGE
+99.684%
+--
+$0.99684
+Filled
+7/06/25 18:12:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17027
+5.8 DOGE
+100%
+--
+$0.98016
+Filled
+7/06/25 18:11:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17053
+5.8 DOGE
+99.649%
+--
+$0.99649
+Filled
+7/06/25 18:11:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17035
+5.8 DOGE
+100%
+--
+$0.98062
+Filled
+7/06/25 18:10:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17047
+5.8 DOGE
+99.614%
+--
+$0.99614
+Filled
+7/06/25 18:10:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17032
+5.8 DOGE
+100%
+--
+$0.98045
+Filled
+7/06/25 18:10:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17032
+5.8 DOGE
+99.526%
+--
+$0.99526
+Filled
+7/06/25 18:09:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17034
+5.8 DOGE
+100%
+--
+$0.98056
+Filled
+7/06/25 18:08:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17045
+5.8 DOGE
+99.602%
+--
+$0.99602
+Filled
+7/06/25 18:01:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17113
+5.8 DOGE
+100%
+--
+$0.98511
+Filled
+7/06/25 17:57:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17104
+5.8 DOGE
+99.947%
+--
+$0.99947
+Filled
+7/06/25 17:57:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17095
+5.8 DOGE
+100%
+--
+$0.98407
+Filled
+7/06/25 17:57:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17108
+5.8 DOGE
+99.97%
+--
+$0.99971
+Filled
+7/06/25 17:51:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17114
+5.8 DOGE
+100%
+--
+$0.98517
+Filled
+7/06/25 17:48:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17102
+5.8 DOGE
+99.935%
+--
+$0.99936
+Filled
+7/06/25 17:47:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17096
+5.8 DOGE
+100%
+--
+$0.98413
+Filled
+7/06/25 17:45:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17093
+5.8 DOGE
+99.882%
+--
+$0.99883
+Filled
+7/06/25 17:43:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17080
+5.8 DOGE
+100%
+--
+$0.98321
+Filled
+7/06/25 17:43:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17085
+5.8 DOGE
+99.836%
+--
+$0.99836
+Filled
+7/06/25 17:41:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17087
+5.8 DOGE
+100%
+--
+$0.98361
+Filled
+7/06/25 17:41:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17102
+5.8 DOGE
+99.935%
+--
+$0.99936
+Filled
+7/06/25 17:39:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17093
+5.8 DOGE
+100%
+--
+$0.98396
+Filled
+7/06/25 17:38:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17108
+5.8 DOGE
+99.97%
+--
+$0.99971
+Filled
+7/06/25 17:33:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17126
+5.8 DOGE
+100%
+--
+$0.98586
+Filled
+7/06/25 17:32:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17146
+5.7 DOGE
+98.465%
+--
+$0.98465
+Filled
+7/06/25 17:31:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17145
+5.8 DOGE
+100%
+--
+$0.98695
+Filled
+7/06/25 17:30:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17149
+5.7 DOGE
+98.482%
+--
+$0.98482
+Filled
+7/06/25 17:29:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17143
+5.8 DOGE
+100%
+--
+$0.98684
+Filled
+7/06/25 17:28:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17140
+5.7 DOGE
+98.43%
+--
+$0.98431
+Filled
+7/06/25 17:28:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17146
+5.8 DOGE
+100%
+--
+$0.98701
+Filled
+7/06/25 17:26:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17142
+5.7 DOGE
+98.442%
+--
+$0.98442
+Filled
+7/06/25 17:25:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17126
+5.8 DOGE
+100%
+--
+$0.98586
+Filled
+7/06/25 17:25:27
+Default
+DOGE-USD
+Market
+Buy
+$0.17141
+5.7 DOGE
+98.436%
+--
+$0.98436
+Filled
+7/06/25 17:24:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17142
+5.8 DOGE
+100%
+--
+$0.98678
+Filled
+7/06/25 17:23:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17158
+5.7 DOGE
+98.534%
+--
+$0.98534
+Filled
+7/06/25 17:18:38
+Default
+DOGE-USD
+Market
+Sell
+$0.17188
+5.8 DOGE
+100%
+--
+$0.98943
+Filled
+7/06/25 17:17:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17214
+5.7 DOGE
+98.855%
+--
+$0.98856
+Filled
+7/06/25 17:16:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17192
+5.8 DOGE
+100%
+--
+$0.98966
+Filled
+7/06/25 17:16:27
+Default
+DOGE-USD
+Market
+Buy
+$0.17208
+5.7 DOGE
+98.821%
+--
+$0.98821
+Filled
+7/06/25 17:16:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17207
+5.8 DOGE
+100%
+--
+$0.99052
+Filled
+7/06/25 17:12:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17183
+5.7 DOGE
+98.677%
+--
+$0.98678
+Filled
+7/06/25 17:09:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17175
+5.8 DOGE
+100%
+--
+$0.98868
+Filled
+7/06/25 17:08:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17192
+5.7 DOGE
+98.729%
+--
+$0.98729
+Filled
+7/06/25 17:08:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17186
+5.8 DOGE
+100%
+--
+$0.98931
+Filled
+7/06/25 17:07:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17204
+5.7 DOGE
+98.798%
+--
+$0.98798
+Filled
+7/06/25 17:07:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17183
+5.8 DOGE
+100%
+--
+$0.98914
+Filled
+7/06/25 17:07:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17198
+5.7 DOGE
+98.763%
+--
+$0.98764
+Filled
+7/06/25 17:06:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17181
+5.8 DOGE
+100%
+--
+$0.98902
+Filled
+7/06/25 17:05:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17193
+5.7 DOGE
+98.735%
+--
+$0.98735
+Filled
+7/06/25 17:03:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17195
+5.8 DOGE
+100%
+--
+$0.98983
+Filled
+7/06/25 17:02:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17203
+5.7 DOGE
+98.792%
+--
+$0.98793
+Filled
+7/06/25 17:00:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17192
+5.8 DOGE
+100%
+--
+$0.98966
+Filled
+7/06/25 16:59:27
+Default
+DOGE-USD
+Market
+Buy
+$0.17200
+5.7 DOGE
+98.775%
+--
+$0.98775
+Filled
+7/06/25 16:56:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17196
+5.8 DOGE
+100%
+--
+$0.98989
+Filled
+7/06/25 16:56:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17208
+5.7 DOGE
+98.821%
+--
+$0.98821
+Filled
+7/06/25 16:55:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17201
+5.8 DOGE
+100%
+--
+$0.99018
+Filled
+7/06/25 16:50:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17190
+5.7 DOGE
+98.717%
+--
+$0.98718
+Filled
+7/06/25 16:50:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17184
+5.8 DOGE
+100%
+--
+$0.98920
+Filled
+7/06/25 16:48:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17186
+5.7 DOGE
+98.694%
+--
+$0.98695
+Filled
+7/06/25 16:46:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17179
+5.8 DOGE
+100%
+--
+$0.98891
+Filled
+7/06/25 16:43:27
+Default
+DOGE-USD
+Market
+Buy
+$0.17184
+5.7 DOGE
+98.683%
+--
+$0.98683
+Filled
+7/06/25 16:41:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17174
+5.8 DOGE
+100%
+--
+$0.98862
+Filled
+7/06/25 16:38:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17155
+5.7 DOGE
+98.516%
+--
+$0.98517
+Filled
+7/06/25 16:31:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17159
+5.8 DOGE
+100%
+--
+$0.98776
+Filled
+7/06/25 16:31:44
+Default
+DOGE-USD
+Market
+Buy
+$0.17154
+5.7 DOGE
+98.511%
+--
+$0.98511
+Filled
+7/06/25 16:31:44
+Default
+DOGE-USD
+Market
+Sell
+$0.17151
+5.8 DOGE
+100%
+--
+$0.98730
+Filled
+7/06/25 16:31:41
+Default
+DOGE-USD
+Market
+Buy
+$0.17151
+5.7 DOGE
+98.493%
+--
+$0.98494
+Filled
+7/06/25 16:31:41
+Default
+DOGE-USD
+Market
+Sell
+$0.17149
+5.8 DOGE
+100%
+--
+$0.98718
+Filled
+7/06/25 16:31:38
+Default
+DOGE-USD
+Market
+Buy
+$0.17149
+5.7 DOGE
+98.482%
+--
+$0.98482
+Filled
+7/06/25 16:31:38
+Default
+DOGE-USD
+Market
+Sell
+$0.17148
+5.8 DOGE
+100%
+--
+$0.98712
+Filled
+7/06/25 16:31:35
+Default
+DOGE-USD
+Market
+Buy
+$0.17148
+5.7 DOGE
+98.476%
+--
+$0.98477
+Filled
+7/06/25 16:31:29
+Default
+DOGE-USD
+Market
+Sell
+$0.17147
+5.8 DOGE
+100%
+--
+$0.98707
+Filled
+7/06/25 16:31:26
+Default
+DOGE-USD
+Market
+Buy
+$0.17148
+5.7 DOGE
+98.476%
+--
+$0.98477
+Filled
+7/06/25 16:31:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17147
+5.7 DOGE
+98.47%
+--
+$0.98471
+Filled
+7/06/25 16:31:16
+Default
+DOGE-USD
+Market
+Sell
+$0.17146
+5.8 DOGE
+100%
+--
+$0.98701
+Filled
+7/06/25 16:31:14
+Default
+DOGE-USD
+Market
+Buy
+$0.17148
+5.7 DOGE
+98.476%
+--
+$0.98477
+Filled
+7/06/25 16:31:13
+Default
+DOGE-USD
+Market
+Sell
+$0.17147
+5.8 DOGE
+100%
+--
+$0.98707
+Filled
+7/06/25 16:31:11
+Default
+DOGE-USD
+Market
+Buy
+$0.17148
+5.7 DOGE
+98.476%
+--
+$0.98477
+Filled
+7/06/25 16:31:11
+Default
+DOGE-USD
+Market
+Sell
+$0.17146
+5.8 DOGE
+100%
+--
+$0.98701
+Filled
+7/06/25 16:31:08
+Default
+DOGE-USD
+Market
+Buy
+$0.17146
+5.7 DOGE
+98.465%
+--
+$0.98465
+Filled
+7/06/25 16:29:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17145
+5.8 DOGE
+100%
+--
+$0.98695
+Filled
+7/06/25 16:29:55
+Default
+DOGE-USD
+Market
+Buy
+$0.17145
+5.7 DOGE
+98.459%
+--
+$0.98459
+Filled
+7/06/25 16:29:54
+Default
+DOGE-USD
+Market
+Sell
+$0.17144
+5.8 DOGE
+100%
+--
+$0.98689
+Filled
+7/06/25 16:29:52
+Default
+DOGE-USD
+Market
+Buy
+$0.17147
+5.7 DOGE
+98.47%
+--
+$0.98471
+Filled
+7/06/25 16:29:52
+Default
+DOGE-USD
+Market
+Sell
+$0.17146
+5.8 DOGE
+100%
+--
+$0.98701
+Filled
+7/06/25 16:29:49
+Default
+DOGE-USD
+Market
+Buy
+$0.17149
+5.7 DOGE
+98.482%
+--
+$0.98482
+Filled
+7/06/25 16:29:49
+Default
+DOGE-USD
+Market
+Sell
+$0.17147
+5.8 DOGE
+100%
+--
+$0.98707
+Filled
+7/06/25 16:29:46
+Default
+DOGE-USD
+Market
+Buy
+$0.17149
+5.7 DOGE
+98.482%
+--
+$0.98482
+Filled
+7/06/25 16:21:24
+Default
+DOGE-USD
+Market
+Sell
+$0.17168
+5.8 DOGE
+100%
+--
+$0.98828
+Filled
+7/06/25 16:19:34
+Default
+DOGE-USD
+Market
+Buy
+$0.17213
+5.7 DOGE
+98.849%
+--
+$0.98850
+Filled
+7/06/25 16:16:44
+Default
+DOGE-USD
+Market
+Sell
+$0.17180
+5.8 DOGE
+100%
+--
+$0.98897
+Filled
+7/06/25 16:16:24
+Default
+DOGE-USD
+Market
+Buy
+$0.17206
+5.7 DOGE
+98.809%
+--
+$0.98810
+Filled
+7/06/25 16:15:34
+Default
+DOGE-USD
+Market
+Sell
+$0.17202
+5.8 DOGE
+100%
+--
+$0.99023
+Filled
+7/06/25 16:14:33
+Default
+DOGE-USD
+Market
+Buy
+$0.17213
+5.7 DOGE
+98.849%
+--
+$0.98850
+Filled
+7/06/25 16:10:14
+Default
+DOGE-USD
+Market
+Sell
+$0.17213
+5.8 DOGE
+100%
+--
+$0.99087
+Filled
+7/06/25 16:07:34
+Default
+DOGE-USD
+Market
+Buy
+$0.17240
+5.7 DOGE
+99.005%
+--
+$0.99005
+Filled
+7/06/25 16:01:34
+Default
+DOGE-USD
+Market
+Sell
+$0.17287
+5.7 DOGE
+100%
+--
+$0.97797
+Filled
+7/06/25 15:59:33
+Default
+DOGE-USD
+Market
+Buy
+$0.17299
+5.7 DOGE
+99.343%
+--
+$0.99344
+Filled
+7/06/25 15:58:44
+Default
+DOGE-USD
+Market
+Sell
+$0.17291
+5.7 DOGE
+100%
+--
+$0.97820
+Filled
+7/06/25 15:54:24
+Default
+DOGE-USD
+Market
+Buy
+$0.17283
+5.7 DOGE
+99.251%
+--
+$0.99252
+Filled
+7/06/25 15:51:24
+Default
+DOGE-USD
+Market
+Sell
+$0.17274
+5.8 DOGE
+100%
+--
+$0.99438
+Filled
+7/06/25 15:50:24
+Default
+DOGE-USD
+Market
+Buy
+$0.17311
+5.7 DOGE
+99.412%
+--
+$0.99412
+Filled
+7/06/25 15:50:23
+Default
+DOGE-USD
+Market
+Sell
+$0.17309
+6 DOGE
+100%
+--
+$1.03075
+Filled
+7/06/25 15:50:21
+Default
+DOGE-USD
+Market
+Buy
+$0.17310
+5.7 DOGE
+99.407%
+--
+$0.99407
+Filled
+7/06/25 15:50:20
+Default
+DOGE-USD
+Market
+Sell
+$0.17309
+5.7 DOGE
+100%
+--
+$0.97921
+Filled
+7/06/25 15:50:01
+Default
+DOGE-USD
+Market
+Buy
+$0.17310
+5.7 DOGE
+99.407%
+--
+$0.99407
+Filled
+7/06/25 15:48:01
+Default
+DOGE-USD
+Market
+Sell
+$0.17297
+5.7 DOGE
+100%
+--
+$0.97853
+Filled
+7/06/25 15:42:01
+Default
+DOGE-USD
+Market
+Buy
+$0.17292
+5.7 DOGE
+99.303%
+--
+$0.99304
+Filled
+7/06/25 15:41:51
+Default
+DOGE-USD
+Market
+Sell
+$0.17284
+5.7 DOGE
+100%
+--
+$0.97780
+Filled
+7/06/25 15:41:31
+Default
+DOGE-USD
+Market
+Buy
+$0.17272
+5.7 DOGE
+99.188%
+--
+$0.99189
+Filled
+7/06/25 15:40:01
+Default
+DOGE-USD
+Market
+Sell
+$0.17267
+5.7 DOGE
+100%
+--
+$0.97684
+Filled
+7/06/25 15:38:11
+Default
+DOGE-USD
+Market
+Buy
+$0.17275
+5.7 DOGE
+99.206%
+--
+$0.99206
+Filled
+7/06/25 15:37:51
+Default
+DOGE-USD
+Market
+Sell
+$0.17267
+5.7 DOGE
+100%
+--
+$0.97684
+Filled
+7/06/25 15:36:01
+Default
+DOGE-USD
+Market
+Buy
+$0.17277
+5.7 DOGE
+99.217%
+--
+$0.99217
+Filled
+7/06/25 15:31:41
+Default
+DOGE-USD
+Market
+Sell
+$0.17287
+5.7 DOGE
+100%
+--
+$0.97797
+Filled
+7/06/25 15:31:21
+Default
+DOGE-USD
+Market
+Buy
+$0.17297
+5.7 DOGE
+99.332%
+--
+$0.99332
+Filled
+7/06/25 15:30:21
+Default
+DOGE-USD
+Market
+Sell
+$0.17293
+5.7 DOGE
+100%
+--
+$0.97831
+Filled
+7/06/25 15:28:11
+Default
+DOGE-USD
+Market
+Buy
+$0.17293
+5.7 DOGE
+99.309%
+--
+$0.99309
+Filled
+7/06/25 15:19:21
+Default
+DOGE-USD
+Market
+Sell
+$0.17325
+5.7 DOGE
+100%
+--
+$0.98012
+Filled
+7/06/25 15:14:41
+Default
+DOGE-USD
+Market
+Buy
+$0.17309
+5.7 DOGE
+99.401%
+--
+$0.99401
+Filled
+7/06/25 15:09:11
+Default
+DOGE-USD
+Market
+Sell
+$0.17312
+5.8 DOGE
+100%
+--
+$0.99657
+Filled
+7/06/25 14:59:11
+Default
+DOGE-USD
+Market
+Buy
+$0.17211
+5.7 DOGE
+98.838%
+--
+$0.98838
+Filled
+7/06/25 14:59:01
+Default
+DOGE-USD
+Market
+Sell
+$0.17201
+5.8 DOGE
+100%
+--
+$0.99018
+Filled
+7/06/25 14:57:11
+Default
+DOGE-USD
+Market
+Buy
+$0.17204
+5.7 DOGE
+98.798%
+--
+$0.98798
+Filled
+7/06/25 14:54:41
+Default
+DOGE-USD
+Market
+Sell
+$0.17177
+5.8 DOGE
+100%
+--
+$0.98879
+Filled
+7/06/25 14:54:01
+Default
+DOGE-USD
+Market
+Buy
+$0.17197
+5.7 DOGE
+98.758%
+--
+$0.98758
+Filled
+7/06/25 14:43:41
+Default
+DOGE-USD
+Market
+Sell
+$0.17320
+5.7 DOGE
+100%
+--
+$0.97984
+Filled
+7/06/25 14:39:51
+Default
+DOGE-USD
+Market
+Buy
+$0.17305
+5.7 DOGE
+99.378%
+--
+$0.99378
+Filled
+7/06/25 14:39:21
+Default
+DOGE-USD
+Market
+Sell
+$0.17291
+5.7 DOGE
+100%
+--
+$0.97820
+Filled
+7/06/25 14:39:11
+Default
+DOGE-USD
+Market
+Buy
+$0.17299
+5.7 DOGE
+99.343%
+--
+$0.99344
+Filled
+7/06/25 14:38:51
+Default
+DOGE-USD
+Market
+Sell
+$0.17289
+5.7 DOGE
+100%
+--
+$0.97808
+Filled
+7/06/25 14:38:21
+Default
+DOGE-USD
+Market
+Buy
+$0.17297
+5.7 DOGE
+99.332%
+--
+$0.99332
+Filled
+7/06/25 14:37:51
+Default
+DOGE-USD
+Market
+Sell
+$0.17281
+5.7 DOGE
+100%
+--
+$0.97763
+Filled
+7/06/25 14:35:32
+Default
+DOGE-USD
+Market
+Buy
+$0.17291
+5.7 DOGE
+99.297%
+--
+$0.99298
+Filled
+7/06/25 14:33:31
+Default
+DOGE-USD
+Market
+Sell
+$0.17256
+5.8 DOGE
+100%
+--
+$0.99334
+Filled
+7/06/25 14:28:34
+Default
+DOGE-USD
+Market
+Buy
+$0.17185
+5.7 DOGE
+98.689%
+--
+$0.98689
+Filled
+7/06/25 14:28:34
+Default
+DOGE-USD
+Market
+Sell
+$0.17184
+5.8 DOGE
+100%
+--
+$0.98920
+Filled
+7/06/25 14:28:31
+Default
+DOGE-USD
+Market
+Buy
+$0.17187
+5.7 DOGE
+98.7%
+--
+$0.98701
+Filled
+7/06/25 14:28:31
+Default
+DOGE-USD
+Market
+Sell
+$0.17186
+5.8 DOGE
+100%
+--
+$0.98931
+Filled
+7/06/25 14:28:28
+Default
+DOGE-USD
+Market
+Buy
+$0.17191
+5.7 DOGE
+98.723%
+--
+$0.98724
+Filled
+7/06/25 14:28:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17188
+5.8 DOGE
+100%
+--
+$0.98943
+Filled
+7/06/25 14:28:25
+Default
+DOGE-USD
+Market
+Buy
+$0.17193
+5.7 DOGE
+98.735%
+--
+$0.98735
+Filled
+7/06/25 14:28:25
+Default
+DOGE-USD
+Market
+Sell
+$0.17192
+6 DOGE
+100%
+--
+$1.02378
+Filled
+7/06/25 14:28:22
+Default
+DOGE-USD
+Market
+Buy
+$0.17199
+5.7 DOGE
+98.769%
+--
+$0.98770
+Filled
+7/06/25 14:28:22
+Default
+DOGE-USD
+Market
+Sell
+$0.17185
+6 DOGE
+100%
+--
+$1.02337
+Filled
+7/06/25 14:28:19
+Default
+DOGE-USD
+Market
+Buy
+$0.17169
+5.7 DOGE
+98.595%
+--
+$0.98595
+Filled
+7/06/25 14:28:19
+Default
+DOGE-USD
+Market
+Sell
+$0.17168
+5.8 DOGE
+100%
+--
+$0.98828
+Filled
+7/06/25 14:19:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17086
+5.8 DOGE
+99.842%
+--
+$0.99842
+Filled
+7/06/25 14:15:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17078
+5.8 DOGE
+100%
+--
+$0.98310
+Filled
+7/06/25 14:10:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17067
+5.8 DOGE
+99.731%
+--
+$0.99731
+Filled
+7/06/25 14:08:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17066
+5.9 DOGE
+100%
+--
+$0.99934
+Filled
+7/06/25 14:02:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17058
+5.8 DOGE
+99.68%
+--
+$0.99680
+Filled
+7/06/25 14:02:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17057
+5.8 DOGE
+100%
+--
+$0.98189
+Filled
+7/06/25 14:02:44
+Default
+DOGE-USD
+Market
+Buy
+$0.17055
+5.8 DOGE
+99.66%
+--
+$0.99661
+Filled
+7/06/25 14:02:44
+Default
+DOGE-USD
+Market
+Sell
+$0.17054
+5.8 DOGE
+100%
+--
+$0.98171
+Filled
+7/06/25 14:02:42
+Default
+DOGE-USD
+Market
+Buy
+$0.17055
+5.8 DOGE
+99.66%
+--
+$0.99661
+Filled
+7/06/25 14:02:41
+Default
+DOGE-USD
+Market
+Sell
+$0.17054
+5.8 DOGE
+100%
+--
+$0.98172
+Filled
+7/06/25 14:02:39
+Default
+DOGE-USD
+Market
+Buy
+$0.17056
+5.8 DOGE
+99.666%
+--
+$0.99667
+Filled
+7/06/25 14:02:39
+Default
+DOGE-USD
+Market
+Sell
+$0.17055
+5.8 DOGE
+100%
+--
+$0.98177
+Filled
+7/06/25 14:02:36
+Default
+DOGE-USD
+Market
+Buy
+$0.17057
+5.8 DOGE
+99.672%
+--
+$0.99673
+Filled
+7/06/25 14:02:34
+Default
+DOGE-USD
+Market
+Sell
+$0.17055
+5.8 DOGE
+100%
+--
+$0.98177
+Filled
+7/06/25 14:02:31
+Default
+DOGE-USD
+Market
+Buy
+$0.17056
+5.8 DOGE
+99.666%
+--
+$0.99667
+Filled
+7/06/25 14:02:31
+Default
+DOGE-USD
+Market
+Sell
+$0.17055
+5.8 DOGE
+100%
+--
+$0.98177
+Filled
+7/06/25 14:00:32
+Default
+DOGE-USD
+Market
+Buy
+$0.17058
+5.8 DOGE
+99.678%
+--
+$0.99678
+Filled
+7/06/25 13:56:22
+Default
+DOGE-USD
+Market
+Sell
+$0.17052
+5.8 DOGE
+100%
+--
+$0.98160
+Filled
+7/06/25 13:56:02
+Default
+DOGE-USD
+Market
+Buy
+$0.17062
+5.8 DOGE
+99.701%
+--
+$0.99702
+Filled
+7/06/25 13:54:22
+Default
+DOGE-USD
+Market
+Sell
+$0.17049
+5.8 DOGE
+100%
+--
+$0.98143
+Filled
+7/06/25 13:51:52
+Default
+DOGE-USD
+Market
+Buy
+$0.17059
+5.8 DOGE
+99.684%
+--
+$0.99684
+Filled
+7/06/25 13:46:42
+Default
+DOGE-USD
+Market
+Sell
+$0.17065
+5.8 DOGE
+100%
+--
+$0.98235
+Filled
+7/06/25 13:45:52
+Default
+DOGE-USD
+Market
+Buy
+$0.17089
+5.8 DOGE
+99.859%
+--
+$0.99860
+Filled
+7/06/25 13:45:22
+Default
+DOGE-USD
+Market
+Sell
+$0.17080
+5.8 DOGE
+100%
+--
+$0.98321
+Filled
+7/06/25 13:38:34
+Default
+DOGE-USD
+Market
+Buy
+$0.17065
+5.7 DOGE
+98.002%
+--
+$0.98003
+Filled
+7/06/25 13:38:33
+Default
+DOGE-USD
+Market
+Sell
+$0.17065
+5.8 DOGE
+100%
+--
+$0.98235
+Filled
+7/06/25 13:38:31
+Default
+DOGE-USD
+Market
+Buy
+$0.17065
+5.7 DOGE
+98.002%
+--
+$0.98003
+Filled
+7/06/25 13:38:30
+Default
+DOGE-USD
+Market
+Sell
+$0.17065
+5.8 DOGE
+100%
+--
+$0.98235
+Filled
+7/06/25 13:38:28
+Default
+DOGE-USD
+Market
+Buy
+$0.17064
+5.8 DOGE
+99.713%
+--
+$0.99713
+Filled
+7/06/25 13:38:28
+Default
+DOGE-USD
+Market
+Sell
+$0.17063
+5.8 DOGE
+100%
+--
+$0.98223
+Filled
+7/06/25 13:38:25
+Default
+DOGE-USD
+Market
+Buy
+$0.17067
+5.8 DOGE
+99.731%
+--
+$0.99731
+Filled
+7/06/25 13:38:25
+Default
+DOGE-USD
+Market
+Sell
+$0.17066
+5.8 DOGE
+100%
+--
+$0.98240
+Filled
+7/06/25 13:38:22
+Default
+DOGE-USD
+Market
+Buy
+$0.17072
+5.7 DOGE
+98.04%
+--
+$0.98040
+Filled
+7/06/25 13:38:21
+Default
+DOGE-USD
+Market
+Sell
+$0.17071
+6 DOGE
+100%
+--
+$1.01658
+Filled
+7/06/25 13:38:19
+Default
+DOGE-USD
+Market
+Buy
+$0.17071
+5.7 DOGE
+98.035%
+--
+$0.98035
+Filled
+7/06/25 13:38:18
+Default
+DOGE-USD
+Market
+Sell
+$0.17071
+6 DOGE
+100%
+--
+$1.01658
+Filled
+7/06/25 13:38:16
+Default
+DOGE-USD
+Market
+Buy
+$0.17070
+5.7 DOGE
+98.031%
+--
+$0.98031
+Filled
+7/06/25 13:38:15
+Default
+DOGE-USD
+Market
+Sell
+$0.17071
+5.8 DOGE
+100%
+--
+$0.98269
+Filled
+7/06/25 13:33:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17061
+5.8 DOGE
+99.695%
+--
+$0.99696
+Filled
+7/06/25 13:33:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17052
+5.8 DOGE
+100%
+--
+$0.98160
+Filled
+7/06/25 13:26:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17049
+5.7 DOGE
+97.908%
+--
+$0.97908
+Filled
+7/06/25 13:26:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17052
+5.8 DOGE
+100%
+--
+$0.98160
+Filled
+7/06/25 13:25:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17039
+5.8 DOGE
+99.567%
+--
+$0.99567
+Filled
+7/06/25 13:24:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17025
+5.8 DOGE
+100%
+--
+$0.98004
+Filled
+7/06/25 13:23:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17038
+5.8 DOGE
+99.561%
+--
+$0.99562
+Filled
+7/06/25 13:23:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17032
+5.8 DOGE
+100%
+--
+$0.98045
+Filled
+7/06/25 13:22:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17041
+5.8 DOGE
+99.579%
+--
+$0.99579
+Filled
+7/06/25 13:22:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17024
+5.8 DOGE
+100%
+--
+$0.97999
+Filled
+7/06/25 13:21:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17038
+5.8 DOGE
+99.561%
+--
+$0.99562
+Filled
+7/06/25 13:19:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17029
+5.8 DOGE
+100%
+--
+$0.98027
+Filled
+7/06/25 13:18:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17043
+5.8 DOGE
+99.59%
+--
+$0.99591
+Filled
+7/06/25 13:16:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17026
+5.8 DOGE
+100%
+--
+$0.98010
+Filled
+7/06/25 13:15:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17037
+5.8 DOGE
+99.555%
+--
+$0.99556
+Filled
+7/06/25 13:15:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17032
+5.8 DOGE
+100%
+--
+$0.98045
+Filled
+7/06/25 13:13:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17031
+5.8 DOGE
+99.52%
+--
+$0.99521
+Filled
+7/06/25 13:10:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17030
+5.9 DOGE
+100%
+--
+$0.99723
+Filled
+7/06/25 12:57:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16921
+5.8 DOGE
+98.877%
+--
+$0.98878
+Filled
+7/06/25 12:55:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16914
+5.9 DOGE
+100%
+--
+$0.99044
+Filled
+7/06/25 12:54:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16923
+5.8 DOGE
+98.892%
+--
+$0.98892
+Filled
+7/06/25 12:54:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16918
+5.9 DOGE
+100%
+--
+$0.99068
+Filled
+7/06/25 12:53:27
+Default
+DOGE-USD
+Market
+Buy
+$0.16935
+5.8 DOGE
+98.959%
+--
+$0.98960
+Filled
+7/06/25 12:50:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16924
+5.9 DOGE
+100%
+--
+$0.99103
+Filled
+7/06/25 12:46:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16920
+5.8 DOGE
+98.872%
+--
+$0.98872
+Filled
+7/06/25 12:45:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16913
+5.9 DOGE
+100%
+--
+$0.99038
+Filled
+7/06/25 12:42:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16914
+5.8 DOGE
+98.836%
+--
+$0.98837
+Filled
+7/06/25 12:41:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16915
+5.8 DOGE
+100%
+--
+$0.97371
+Filled
+7/06/25 12:41:25
+Default
+DOGE-USD
+Market
+Buy
+$0.16916
+5.8 DOGE
+98.848%
+--
+$0.98849
+Filled
+7/06/25 12:41:25
+Default
+DOGE-USD
+Market
+Sell
+$0.16915
+5.8 DOGE
+100%
+--
+$0.97371
+Filled
+7/06/25 12:41:22
+Default
+DOGE-USD
+Market
+Buy
+$0.16916
+5.8 DOGE
+98.848%
+--
+$0.98849
+Filled
+7/06/25 12:41:22
+Default
+DOGE-USD
+Market
+Sell
+$0.16916
+6 DOGE
+100%
+--
+$1.00735
+Filled
+7/06/25 12:41:19
+Default
+DOGE-USD
+Market
+Buy
+$0.16917
+5.8 DOGE
+98.854%
+--
+$0.98854
+Filled
+7/06/25 12:41:19
+Default
+DOGE-USD
+Market
+Sell
+$0.16915
+6 DOGE
+100%
+--
+$1.00729
+Filled
+7/06/25 12:41:16
+Default
+DOGE-USD
+Market
+Buy
+$0.16917
+5.8 DOGE
+98.854%
+--
+$0.98854
+Filled
+7/06/25 12:41:16
+Default
+DOGE-USD
+Market
+Sell
+$0.16915
+6 DOGE
+100%
+--
+$1.00729
+Filled
+7/06/25 12:41:13
+Default
+DOGE-USD
+Market
+Buy
+$0.16918
+5.8 DOGE
+98.86%
+--
+$0.98860
+Filled
+7/06/25 12:41:13
+Default
+DOGE-USD
+Market
+Sell
+$0.16917
+5.9 DOGE
+100%
+--
+$0.99062
+Filled
+7/06/25 12:40:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16922
+5.8 DOGE
+98.883%
+--
+$0.98884
+Filled
+7/06/25 12:37:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16923
+5.9 DOGE
+100%
+--
+$0.99097
+Filled
+7/06/25 12:35:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16920
+5.8 DOGE
+98.872%
+--
+$0.98872
+Filled
+7/06/25 12:31:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16918
+5.9 DOGE
+100%
+--
+$0.99068
+Filled
+7/06/25 12:30:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16929
+5.8 DOGE
+98.924%
+--
+$0.98925
+Filled
+7/06/25 12:27:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16926
+5.9 DOGE
+100%
+--
+$0.99114
+Filled
+7/06/25 12:27:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16929
+5.8 DOGE
+98.924%
+--
+$0.98925
+Filled
+7/06/25 12:27:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16927
+5.9 DOGE
+100%
+--
+$0.99120
+Filled
+7/06/25 12:20:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16905
+5.8 DOGE
+98.784%
+--
+$0.98784
+Filled
+7/06/25 12:19:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16899
+5.9 DOGE
+100%
+--
+$0.98956
+Filled
+7/06/25 12:18:27
+Default
+DOGE-USD
+Market
+Buy
+$0.16911
+5.8 DOGE
+98.819%
+--
+$0.98819
+Filled
+7/06/25 12:17:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16897
+5.9 DOGE
+100%
+--
+$0.98945
+Filled
+7/06/25 12:14:27
+Default
+DOGE-USD
+Market
+Buy
+$0.16903
+5.8 DOGE
+98.772%
+--
+$0.98773
+Filled
+7/06/25 12:13:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16896
+5.9 DOGE
+100%
+--
+$0.98939
+Filled
+7/06/25 12:10:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16900
+5.8 DOGE
+98.752%
+--
+$0.98753
+Filled
+7/06/25 12:09:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16893
+5.9 DOGE
+100%
+--
+$0.98921
+Filled
+7/06/25 12:09:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16897
+5.8 DOGE
+98.737%
+--
+$0.98738
+Filled
+7/06/25 12:06:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16906
+5.9 DOGE
+100%
+--
+$0.98997
+Filled
+7/06/25 11:51:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16787
+5.9 DOGE
+99.786%
+--
+$0.99786
+Filled
+7/06/25 11:51:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16768
+5.9 DOGE
+100%
+--
+$0.98189
+Filled
+7/06/25 11:50:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16788
+5.9 DOGE
+99.792%
+--
+$0.99792
+Filled
+7/06/25 11:40:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16866
+5.9 DOGE
+100%
+--
+$0.98763
+Filled
+7/06/25 11:38:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16875
+5.8 DOGE
+98.609%
+--
+$0.98609
+Filled
+7/06/25 11:32:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16935
+5.9 DOGE
+100%
+--
+$0.99167
+Filled
+7/06/25 11:32:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16941
+5.8 DOGE
+98.994%
+--
+$0.98995
+Filled
+7/06/25 11:31:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16938
+5.9 DOGE
+100%
+--
+$0.99185
+Filled
+7/06/25 11:30:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16948
+5.8 DOGE
+99.035%
+--
+$0.99036
+Filled
+7/06/25 11:27:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16966
+5.8 DOGE
+100%
+--
+$0.97665
+Filled
+7/06/25 11:25:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16980
+5.8 DOGE
+99.222%
+--
+$0.99223
+Filled
+7/06/25 11:21:43
+Default
+DOGE-USD
+Market
+Sell
+$0.17008
+5.8 DOGE
+100%
+--
+$0.97907
+Filled
+7/06/25 11:21:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16992
+5.8 DOGE
+99.292%
+--
+$0.99293
+Filled
+7/06/25 11:12:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17049
+5.8 DOGE
+100%
+--
+$0.98143
+Filled
+7/06/25 11:11:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17038
+5.8 DOGE
+99.561%
+--
+$0.99562
+Filled
+7/06/25 11:09:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17051
+5.8 DOGE
+100%
+--
+$0.98154
+Filled
+7/06/25 11:09:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17036
+5.8 DOGE
+99.549%
+--
+$0.99550
+Filled
+7/06/25 11:08:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17053
+5.8 DOGE
+100%
+--
+$0.98166
+Filled
+7/06/25 11:07:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17038
+5.8 DOGE
+99.561%
+--
+$0.99562
+Filled
+7/06/25 10:55:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17089
+5.8 DOGE
+100%
+--
+$0.98373
+Filled
+7/06/25 10:54:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17095
+5.8 DOGE
+99.894%
+--
+$0.99895
+Filled
+7/06/25 10:51:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17091
+5.8 DOGE
+100%
+--
+$0.98387
+Filled
+7/06/25 10:48:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17092
+5.8 DOGE
+99.877%
+--
+$0.99877
+Filled
+7/06/25 10:46:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17090
+5.8 DOGE
+100%
+--
+$0.98379
+Filled
+7/06/25 10:43:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17092
+5.8 DOGE
+99.877%
+--
+$0.99877
+Filled
+7/06/25 10:40:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17087
+5.8 DOGE
+100%
+--
+$0.98361
+Filled
+7/06/25 10:37:27
+Default
+DOGE-USD
+Market
+Buy
+$0.17086
+5.8 DOGE
+99.842%
+--
+$0.99842
+Filled
+7/06/25 10:36:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17075
+5.8 DOGE
+100%
+--
+$0.98292
+Filled
+7/06/25 10:33:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17076
+5.8 DOGE
+99.783%
+--
+$0.99784
+Filled
+7/06/25 10:30:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17077
+5.8 DOGE
+100%
+--
+$0.98304
+Filled
+7/06/25 10:27:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17076
+5.8 DOGE
+99.783%
+--
+$0.99784
+Filled
+7/06/25 10:27:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17070
+5.8 DOGE
+100%
+--
+$0.98263
+Filled
+7/06/25 10:23:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17054
+5.8 DOGE
+99.655%
+--
+$0.99655
+Filled
+7/06/25 10:21:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17041
+5.8 DOGE
+100%
+--
+$0.98097
+Filled
+7/06/25 10:21:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17044
+5.8 DOGE
+99.596%
+--
+$0.99597
+Filled
+7/06/25 10:21:07
+Default
+DOGE-USD
+Market
+Sell
+$0.17046
+5.8 DOGE
+100%
+--
+$0.98125
+Filled
+7/06/25 10:18:27
+Default
+DOGE-USD
+Market
+Buy
+$0.17049
+5.8 DOGE
+99.625%
+--
+$0.99626
+Filled
+7/06/25 10:13:07
+Default
+DOGE-USD
+Market
+Sell
+$0.17060
+5.8 DOGE
+100%
+--
+$0.98206
+Filled
+7/06/25 10:09:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17062
+5.8 DOGE
+99.701%
+--
+$0.99702
+Filled
+7/06/25 10:09:07
+Default
+DOGE-USD
+Market
+Sell
+$0.17054
+5.8 DOGE
+100%
+--
+$0.98171
+Filled
+7/06/25 10:08:27
+Default
+DOGE-USD
+Market
+Buy
+$0.17056
+5.8 DOGE
+99.666%
+--
+$0.99667
+Filled
+7/06/25 10:00:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17085
+5.8 DOGE
+100%
+--
+$0.98350
+Filled
+7/06/25 09:59:27
+Default
+DOGE-USD
+Market
+Buy
+$0.17102
+5.8 DOGE
+99.935%
+--
+$0.99936
+Filled
+7/06/25 09:56:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17084
+5.8 DOGE
+100%
+--
+$0.98344
+Filled
+7/06/25 09:48:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17048
+5.8 DOGE
+99.619%
+--
+$0.99620
+Filled
+7/06/25 09:42:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17070
+5.8 DOGE
+100%
+--
+$0.98263
+Filled
+7/06/25 09:39:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17061
+5.8 DOGE
+99.695%
+--
+$0.99696
+Filled
+7/06/25 09:39:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17055
+5.8 DOGE
+100%
+--
+$0.98177
+Filled
+7/06/25 09:37:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17070
+5.8 DOGE
+99.748%
+--
+$0.99749
+Filled
+7/06/25 09:34:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17068
+5.8 DOGE
+100%
+--
+$0.98252
+Filled
+7/06/25 09:34:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17085
+5.8 DOGE
+99.836%
+--
+$0.99836
+Filled
+7/06/25 09:30:07
+Default
+DOGE-USD
+Market
+Sell
+$0.17083
+5.8 DOGE
+100%
+--
+$0.98338
+Filled
+7/06/25 09:29:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17096
+5.8 DOGE
+99.9%
+--
+$0.99900
+Filled
+7/06/25 09:29:07
+Default
+DOGE-USD
+Market
+Sell
+$0.17091
+5.8 DOGE
+100%
+--
+$0.98384
+Filled
+7/06/25 09:27:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17096
+5.8 DOGE
+99.9%
+--
+$0.99900
+Filled
+7/06/25 09:26:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17085
+5.8 DOGE
+100%
+--
+$0.98350
+Filled
+7/06/25 09:24:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17088
+5.8 DOGE
+99.853%
+--
+$0.99854
+Filled
+7/06/25 09:22:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17074
+5.8 DOGE
+100%
+--
+$0.98286
+Filled
+7/06/25 09:18:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17084
+5.8 DOGE
+99.83%
+--
+$0.99830
+Filled
+7/06/25 09:17:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17059
+5.8 DOGE
+100%
+--
+$0.98200
+Filled
+7/06/25 09:14:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17062
+5.8 DOGE
+99.701%
+--
+$0.99702
+Filled
+7/06/25 09:08:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17085
+5.8 DOGE
+100%
+--
+$0.98350
+Filled
+7/06/25 09:03:27
+Default
+DOGE-USD
+Market
+Buy
+$0.17056
+5.8 DOGE
+99.666%
+--
+$0.99667
+Filled
+7/06/25 09:02:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17040
+5.8 DOGE
+100%
+--
+$0.98091
+Filled
+7/06/25 09:02:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17044
+5.8 DOGE
+99.596%
+--
+$0.99597
+Filled
+7/06/25 09:01:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17038
+5.8 DOGE
+100%
+--
+$0.98079
+Filled
+7/06/25 08:59:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17023
+5.8 DOGE
+99.473%
+--
+$0.99474
+Filled
+7/06/25 08:59:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17013
+5.8 DOGE
+100%
+--
+$0.97935
+Filled
+7/06/25 08:53:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17001
+5.8 DOGE
+99.345%
+--
+$0.99345
+Filled
+7/06/25 08:50:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16995
+5.8 DOGE
+100%
+--
+$0.97832
+Filled
+7/06/25 08:48:48
+Default
+DOGE-USD
+Market
+Buy
+$0.17012
+5.8 DOGE
+99.409%
+--
+$0.99410
+Filled
+7/06/25 08:47:07
+Default
+DOGE-USD
+Market
+Sell
+$0.17012
+5.8 DOGE
+100%
+--
+$0.97930
+Filled
+7/06/25 08:42:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16997
+5.8 DOGE
+99.321%
+--
+$0.99322
+Filled
+7/06/25 08:36:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17025
+5.8 DOGE
+100%
+--
+$0.98004
+Filled
+7/06/25 08:33:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17037
+5.8 DOGE
+99.555%
+--
+$0.99556
+Filled
+7/06/25 08:32:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17022
+5.8 DOGE
+100%
+--
+$0.97987
+Filled
+7/06/25 08:31:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17043
+5.8 DOGE
+99.59%
+--
+$0.99591
+Filled
+7/06/25 08:26:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17044
+5.8 DOGE
+100%
+--
+$0.98114
+Filled
+7/06/25 08:24:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17054
+5.7 DOGE
+97.939%
+--
+$0.97940
+Filled
+7/06/25 08:23:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17046
+5.8 DOGE
+100%
+--
+$0.98125
+Filled
+7/06/25 08:22:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17062
+5.8 DOGE
+99.701%
+--
+$0.99702
+Filled
+7/06/25 08:16:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17091
+5.8 DOGE
+100%
+--
+$0.98384
+Filled
+7/06/25 08:16:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17101
+5.7 DOGE
+98.206%
+--
+$0.98207
+Filled
+7/06/25 08:15:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17102
+5.8 DOGE
+100%
+--
+$0.98448
+Filled
+7/06/25 08:12:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17096
+5.7 DOGE
+98.178%
+--
+$0.98178
+Filled
+7/06/25 08:10:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17087
+5.8 DOGE
+100%
+--
+$0.98361
+Filled
+7/06/25 08:09:27
+Default
+DOGE-USD
+Market
+Buy
+$0.17102
+5.7 DOGE
+98.212%
+--
+$0.98213
+Filled
+7/06/25 08:08:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17087
+5.8 DOGE
+100%
+--
+$0.98361
+Filled
+7/06/25 08:04:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17059
+5.7 DOGE
+97.965%
+--
+$0.97966
+Filled
+7/06/25 08:01:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17050
+5.8 DOGE
+100%
+--
+$0.98148
+Filled
+7/06/25 07:57:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17029
+5.7 DOGE
+97.793%
+--
+$0.97793
+Filled
+7/06/25 07:57:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17020
+5.8 DOGE
+100%
+--
+$0.97976
+Filled
+7/06/25 07:53:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16997
+5.8 DOGE
+99.321%
+--
+$0.99322
+Filled
+7/06/25 07:52:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16993
+5.8 DOGE
+100%
+--
+$0.97820
+Filled
+7/06/25 07:51:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16991
+5.8 DOGE
+99.286%
+--
+$0.99287
+Filled
+7/06/25 07:51:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16990
+5.8 DOGE
+100%
+--
+$0.97803
+Filled
+7/06/25 07:47:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16958
+5.8 DOGE
+99.094%
+--
+$0.99094
+Filled
+7/06/25 07:39:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17114
+5.8 DOGE
+100%
+--
+$0.98517
+Filled
+7/06/25 07:37:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17125
+5.7 DOGE
+98.344%
+--
+$0.98345
+Filled
+7/06/25 07:37:07
+Default
+DOGE-USD
+Market
+Sell
+$0.17125
+5.8 DOGE
+100%
+--
+$0.98580
+Filled
+7/06/25 07:36:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17126
+5.7 DOGE
+98.35%
+--
+$0.98350
+Filled
+7/06/25 07:36:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17117
+5.8 DOGE
+100%
+--
+$0.98534
+Filled
+7/06/25 07:35:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17121
+5.7 DOGE
+98.321%
+--
+$0.98322
+Filled
+7/06/25 07:35:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17128
+5.8 DOGE
+100%
+--
+$0.98597
+Filled
+7/06/25 07:35:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17132
+5.7 DOGE
+98.384%
+--
+$0.98385
+Filled
+7/06/25 07:34:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17112
+5.8 DOGE
+100%
+--
+$0.98505
+Filled
+7/06/25 07:33:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17136
+5.7 DOGE
+98.407%
+--
+$0.98408
+Filled
+7/06/25 07:32:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17100
+5.8 DOGE
+100%
+--
+$0.98436
+Filled
+7/06/25 07:30:27
+Default
+DOGE-USD
+Market
+Buy
+$0.17131
+5.7 DOGE
+98.379%
+--
+$0.98379
+Filled
+7/06/25 07:19:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17198
+5.8 DOGE
+100%
+--
+$0.99000
+Filled
+7/06/25 07:19:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17217
+5.7 DOGE
+98.872%
+--
+$0.98873
+Filled
+7/06/25 07:18:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17203
+5.8 DOGE
+100%
+--
+$0.99029
+Filled
+7/06/25 07:16:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17200
+5.7 DOGE
+98.775%
+--
+$0.98775
+Filled
+7/06/25 07:09:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17318
+5.7 DOGE
+100%
+--
+$0.97972
+Filled
+7/06/25 07:08:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17335
+5.7 DOGE
+99.55%
+--
+$0.99551
+Filled
+7/06/25 07:04:37
+Default
+DOGE-USD
+Market
+Sell
+$0.17348
+5.7 DOGE
+100%
+--
+$0.98142
+Filled
+7/06/25 07:00:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17335
+5.7 DOGE
+99.55%
+--
+$0.99551
+Filled
+7/06/25 06:55:47
+Default
+DOGE-USD
+Market
+Sell
+$0.17429
+5.7 DOGE
+100%
+--
+$0.98600
+Filled
+7/06/25 06:55:17
+Default
+DOGE-USD
+Market
+Buy
+$0.17488
+5.6 DOGE
+98.667%
+--
+$0.98667
+Filled
+7/06/25 06:54:27
+Default
+DOGE-USD
+Market
+Sell
+$0.17447
+5.8 DOGE
+100%
+--
+$1.00434
+Filled
+7/06/25 06:50:07
+Default
+DOGE-USD
+Market
+Buy
+$0.17150
+5.7 DOGE
+98.488%
+--
+$0.98488
+Filled
+7/06/25 06:47:57
+Default
+DOGE-USD
+Market
+Sell
+$0.17150
+5.8 DOGE
+100%
+--
+$0.98724
+Filled
+7/06/25 06:47:37
+Default
+DOGE-USD
+Market
+Buy
+$0.17176
+5.7 DOGE
+98.637%
+--
+$0.98637
+Filled
+7/06/25 06:47:17
+Default
+DOGE-USD
+Market
+Sell
+$0.17134
+5.8 DOGE
+100%
+--
+$0.98632
+Filled
+7/06/25 06:41:47
+Default
+DOGE-USD
+Market
+Buy
+$0.17020
+5.8 DOGE
+99.456%
+--
+$0.99456
+Filled
+7/06/25 06:41:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16983
+5.8 DOGE
+100%
+--
+$0.97763
+Filled
+7/06/25 06:41:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16976
+5.8 DOGE
+99.199%
+--
+$0.99199
+Filled
+7/06/25 06:40:47
+Default
+DOGE-USD
+Market
+Sell
+$0.16972
+5.8 DOGE
+100%
+--
+$0.97699
+Filled
+7/06/25 06:38:57
+Default
+DOGE-USD
+Market
+Buy
+$0.17008
+5.8 DOGE
+99.386%
+--
+$0.99386
+Filled
+7/06/25 06:38:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16956
+5.8 DOGE
+100%
+--
+$0.97607
+Filled
+7/06/25 06:38:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16985
+5.8 DOGE
+99.251%
+--
+$0.99252
+Filled
+7/06/25 06:37:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16958
+5.9 DOGE
+100%
+--
+$0.99302
+Filled
+7/06/25 06:33:27
+Default
+DOGE-USD
+Market
+Buy
+$0.16891
+5.8 DOGE
+98.702%
+--
+$0.98703
+Filled
+7/06/25 06:32:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16843
+5.9 DOGE
+100%
+--
+$0.98628
+Filled
+7/06/25 06:27:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16785
+5.9 DOGE
+99.774%
+--
+$0.99774
+Filled
+7/06/25 06:26:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16773
+5.9 DOGE
+100%
+--
+$0.98218
+Filled
+7/06/25 06:26:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16776
+5.8 DOGE
+98.028%
+--
+$0.98029
+Filled
+7/06/25 06:25:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16779
+5.9 DOGE
+100%
+--
+$0.98254
+Filled
+7/06/25 06:22:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16712
+5.9 DOGE
+99.34%
+--
+$0.99340
+Filled
+7/06/25 06:20:47
+Default
+DOGE-USD
+Market
+Sell
+$0.16697
+5.9 DOGE
+100%
+--
+$0.97773
+Filled
+7/06/25 06:20:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16702
+5.9 DOGE
+99.28%
+--
+$0.99281
+Filled
+7/06/25 06:19:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16707
+5.9 DOGE
+100%
+--
+$0.97832
+Filled
+7/06/25 06:18:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16731
+5.9 DOGE
+99.453%
+--
+$0.99453
+Filled
+7/06/25 06:16:47
+Default
+DOGE-USD
+Market
+Sell
+$0.16693
+5.9 DOGE
+100%
+--
+$0.97750
+Filled
+7/06/25 06:13:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16680
+5.9 DOGE
+99.15%
+--
+$0.99150
+Filled
+7/06/25 06:10:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16678
+5.9 DOGE
+100%
+--
+$0.97662
+Filled
+7/06/25 06:10:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16682
+5.9 DOGE
+99.161%
+--
+$0.99162
+Filled
+7/06/25 06:09:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16674
+5.9 DOGE
+100%
+--
+$0.97639
+Filled
+7/06/25 06:05:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16670
+5.9 DOGE
+99.09%
+--
+$0.99091
+Filled
+7/06/25 06:02:07
+Default
+DOGE-USD
+Market
+Sell
+$0.16677
+5.9 DOGE
+100%
+--
+$0.97656
+Filled
+7/06/25 06:01:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16695
+5.9 DOGE
+99.239%
+--
+$0.99239
+Filled
+7/06/25 05:56:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16704
+5.9 DOGE
+100%
+--
+$0.97814
+Filled
+7/06/25 05:53:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16681
+5.9 DOGE
+99.156%
+--
+$0.99156
+Filled
+7/06/25 05:52:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16659
+6 DOGE
+100%
+--
+$0.99204
+Filled
+7/06/25 05:42:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16578
+5.9 DOGE
+98.543%
+--
+$0.98544
+Filled
+7/06/25 05:40:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16569
+6 DOGE
+100%
+--
+$0.98668
+Filled
+7/06/25 05:32:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16524
+6 DOGE
+99.887%
+--
+$0.99888
+Filled
+7/06/25 05:31:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16518
+6 DOGE
+100%
+--
+$0.98365
+Filled
+7/06/25 05:31:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16528
+6 DOGE
+99.911%
+--
+$0.99912
+Filled
+7/06/25 05:30:48
+Default
+DOGE-USD
+Market
+Sell
+$0.16521
+6 DOGE
+100%
+--
+$0.98383
+Filled
+7/06/25 05:30:27
+Default
+DOGE-USD
+Market
+Buy
+$0.16522
+6 DOGE
+99.875%
+--
+$0.99875
+Filled
+7/06/25 05:23:47
+Default
+DOGE-USD
+Market
+Sell
+$0.16529
+6 DOGE
+100%
+--
+$0.98430
+Filled
+7/06/25 05:20:27
+Default
+DOGE-USD
+Market
+Buy
+$0.16538
+6 DOGE
+99.972%
+--
+$0.99972
+Filled
+7/06/25 05:19:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16521
+6 DOGE
+100%
+--
+$0.98383
+Filled
+7/06/25 05:19:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16523
+6 DOGE
+99.881%
+--
+$0.99882
+Filled
+7/06/25 05:16:47
+Default
+DOGE-USD
+Market
+Sell
+$0.16526
+6 DOGE
+100%
+--
+$0.98412
+Filled
+7/06/25 05:14:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16531
+6 DOGE
+99.929%
+--
+$0.99930
+Filled
+7/06/25 05:14:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16525
+6 DOGE
+100%
+--
+$0.98406
+Filled
+7/06/25 05:10:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16536
+6 DOGE
+99.96%
+--
+$0.99960
+Filled
+7/06/25 05:07:47
+Default
+DOGE-USD
+Market
+Sell
+$0.16520
+6 DOGE
+100%
+--
+$0.98377
+Filled
+7/06/25 05:07:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16532
+6 DOGE
+99.935%
+--
+$0.99936
+Filled
+7/06/25 05:05:27
+Default
+DOGE-USD
+Market
+Sell
+$0.16515
+6 DOGE
+100%
+--
+$0.98347
+Filled
+7/06/25 05:04:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16534
+6 DOGE
+99.948%
+--
+$0.99948
+Filled
+7/06/25 05:00:48
+Default
+DOGE-USD
+Market
+Sell
+$0.16546
+6 DOGE
+100%
+--
+$0.98531
+Filled
+7/06/25 04:55:27
+Default
+DOGE-USD
+Market
+Buy
+$0.16499
+6 DOGE
+99.736%
+--
+$0.99736
+Filled
+7/06/25 04:55:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16482
+6 DOGE
+100%
+--
+$0.98150
+Filled
+7/06/25 04:52:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16493
+6 DOGE
+99.7%
+--
+$0.99700
+Filled
+7/06/25 04:49:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16481
+6 DOGE
+100%
+--
+$0.98144
+Filled
+7/06/25 04:40:27
+Default
+DOGE-USD
+Market
+Buy
+$0.16458
+6 DOGE
+99.488%
+--
+$0.99489
+Filled
+7/06/25 04:39:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16447
+6 DOGE
+100%
+--
+$0.97942
+Filled
+7/06/25 04:36:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16449
+6 DOGE
+99.434%
+--
+$0.99434
+Filled
+7/06/25 04:29:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16447
+6 DOGE
+100%
+--
+$0.97942
+Filled
+7/06/25 04:28:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16460
+6 DOGE
+99.498%
+--
+$0.99499
+Filled
+7/06/25 04:27:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16451
+6 DOGE
+100%
+--
+$0.97966
+Filled
+7/06/25 04:21:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16430
+6 DOGE
+99.319%
+--
+$0.99319
+Filled
+7/06/25 04:18:47
+Default
+DOGE-USD
+Market
+Sell
+$0.16430
+6 DOGE
+100%
+--
+$0.97841
+Filled
+7/06/25 04:18:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16440
+6 DOGE
+99.379%
+--
+$0.99380
+Filled
+7/06/25 04:17:48
+Default
+DOGE-USD
+Market
+Sell
+$0.16431
+6 DOGE
+100%
+--
+$0.97847
+Filled
+7/06/25 04:14:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16438
+6 DOGE
+99.367%
+--
+$0.99368
+Filled
+7/06/25 04:13:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16419
+6 DOGE
+100%
+--
+$0.97775
+Filled
+7/06/25 04:12:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16446
+6 DOGE
+99.416%
+--
+$0.99416
+Filled
+7/06/25 04:08:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16430
+6 DOGE
+100%
+--
+$0.97841
+Filled
+7/06/25 04:08:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16434
+6 DOGE
+99.343%
+--
+$0.99344
+Filled
+7/06/25 04:01:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16454
+6 DOGE
+100%
+--
+$0.97984
+Filled
+7/06/25 03:58:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16458
+6 DOGE
+99.49%
+--
+$0.99491
+Filled
+7/06/25 03:55:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16442
+6 DOGE
+100%
+--
+$0.97913
+Filled
+7/06/25 03:54:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16448
+6 DOGE
+99.428%
+--
+$0.99428
+Filled
+7/06/25 03:54:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16443
+6 DOGE
+100%
+--
+$0.97918
+Filled
+7/06/25 03:53:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16452
+6 DOGE
+99.452%
+--
+$0.99452
+Filled
+7/06/25 03:52:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16442
+6 DOGE
+100%
+--
+$0.97912
+Filled
+7/06/25 03:51:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16453
+6 DOGE
+99.458%
+--
+$0.99458
+Filled
+7/06/25 03:46:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16446
+6.1 DOGE
+100%
+--
+$0.99568
+Filled
+7/06/25 03:43:18
+Default
+DOGE-USD
+Market
+Buy
+$0.16453
+6 DOGE
+99.458%
+--
+$0.99458
+Filled
+7/06/25 03:43:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16451
+6 DOGE
+100%
+--
+$0.97966
+Filled
+7/06/25 03:43:15
+Default
+DOGE-USD
+Market
+Buy
+$0.16453
+6 DOGE
+99.458%
+--
+$0.99458
+Filled
+7/06/25 03:43:15
+Default
+DOGE-USD
+Market
+Sell
+$0.16452
+6.1 DOGE
+100%
+--
+$0.99605
+Filled
+7/06/25 03:43:13
+Default
+DOGE-USD
+Market
+Buy
+$0.16453
+6 DOGE
+99.458%
+--
+$0.99458
+Filled
+7/06/25 03:43:12
+Default
+DOGE-USD
+Market
+Sell
+$0.16452
+6 DOGE
+100%
+--
+$0.97972
+Filled
+7/06/25 03:43:09
+Default
+DOGE-USD
+Market
+Buy
+$0.16453
+6 DOGE
+99.458%
+--
+$0.99458
+Filled
+7/06/25 03:43:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16452
+6 DOGE
+100%
+--
+$0.97972
+Filled
+7/06/25 03:43:06
+Default
+DOGE-USD
+Market
+Buy
+$0.16453
+6 DOGE
+99.458%
+--
+$0.99458
+Filled
+7/06/25 03:43:06
+Default
+DOGE-USD
+Market
+Sell
+$0.16452
+6 DOGE
+100%
+--
+$0.97972
+Filled
+7/06/25 03:43:03
+Default
+DOGE-USD
+Market
+Buy
+$0.16449
+6 DOGE
+99.434%
+--
+$0.99434
+Filled
+7/06/25 03:38:48
+Default
+DOGE-USD
+Market
+Sell
+$0.16460
+6 DOGE
+100%
+--
+$0.98019
+Filled
+7/06/25 03:37:18
+Default
+DOGE-USD
+Market
+Buy
+$0.16461
+6 DOGE
+99.506%
+--
+$0.99507
+Filled
+7/06/25 03:34:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16461
+6.1 DOGE
+100%
+--
+$0.99659
+Filled
+7/06/25 03:24:18
+Default
+DOGE-USD
+Market
+Buy
+$0.16378
+6 DOGE
+99.005%
+--
+$0.99005
+Filled
+7/06/25 03:20:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16362
+6.1 DOGE
+100%
+--
+$0.99060
+Filled
+7/06/25 03:16:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16371
+6 DOGE
+98.962%
+--
+$0.98963
+Filled
+7/06/25 03:16:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16359
+6.1 DOGE
+100%
+--
+$0.99041
+Filled
+7/06/25 03:08:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16362
+6 DOGE
+98.908%
+--
+$0.98908
+Filled
+7/06/25 03:07:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16344
+6.1 DOGE
+100%
+--
+$0.98951
+Filled
+7/06/25 03:03:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16345
+6 DOGE
+98.805%
+--
+$0.98806
+Filled
+7/06/25 02:58:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16347
+6.1 DOGE
+100%
+--
+$0.98969
+Filled
+7/06/25 02:57:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16353
+6 DOGE
+98.853%
+--
+$0.98854
+Filled
+7/06/25 02:56:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16345
+6.1 DOGE
+100%
+--
+$0.98957
+Filled
+7/06/25 02:56:08
+Default
+DOGE-USD
+Market
+Buy
+$0.16350
+6 DOGE
+98.835%
+--
+$0.98836
+Filled
+7/06/25 02:55:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16349
+6.1 DOGE
+100%
+--
+$0.98981
+Filled
+7/06/25 02:53:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16353
+6 DOGE
+98.853%
+--
+$0.98854
+Filled
+7/06/25 02:48:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16367
+6 DOGE
+100%
+--
+$0.97465
+Filled
+7/06/25 02:47:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16400
+6 DOGE
+99.138%
+--
+$0.99138
+Filled
+7/06/25 02:45:48
+Default
+DOGE-USD
+Market
+Sell
+$0.16394
+6 DOGE
+100%
+--
+$0.97627
+Filled
+7/06/25 02:42:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16403
+6 DOGE
+99.156%
+--
+$0.99156
+Filled
+7/06/25 02:39:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16387
+6 DOGE
+100%
+--
+$0.97585
+Filled
+7/06/25 02:37:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16391
+6 DOGE
+99.083%
+--
+$0.99084
+Filled
+7/06/25 02:37:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16385
+6.1 DOGE
+100%
+--
+$0.99199
+Filled
+7/06/25 02:28:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16378
+6 DOGE
+99.005%
+--
+$0.99005
+Filled
+7/06/25 02:26:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16375
+6.1 DOGE
+100%
+--
+$0.99138
+Filled
+7/06/25 02:23:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16378
+6 DOGE
+99.005%
+--
+$0.99005
+Filled
+7/06/25 02:22:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16374
+6.1 DOGE
+100%
+--
+$0.99132
+Filled
+7/06/25 02:20:38
+Default
+DOGE-USD
+Market
+Buy
+$0.16382
+6 DOGE
+99.029%
+--
+$0.99029
+Filled
+7/06/25 02:12:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16397
+6.1 DOGE
+100%
+--
+$0.99272
+Filled
+7/06/25 02:05:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16391
+6 DOGE
+99.083%
+--
+$0.99084
+Filled
+7/06/25 02:04:48
+Default
+DOGE-USD
+Market
+Sell
+$0.16378
+6.1 DOGE
+100%
+--
+$0.99157
+Filled
+7/06/25 02:03:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16386
+6 DOGE
+99.053%
+--
+$0.99053
+Filled
+7/06/25 02:01:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16374
+6.1 DOGE
+100%
+--
+$0.99132
+Filled
+7/06/25 01:59:27
+Default
+DOGE-USD
+Market
+Buy
+$0.16390
+6 DOGE
+99.077%
+--
+$0.99078
+Filled
+7/06/25 01:55:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16390
+6 DOGE
+100%
+--
+$0.97602
+Filled
+7/06/25 01:53:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16398
+6 DOGE
+99.125%
+--
+$0.99126
+Filled
+7/06/25 01:50:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16398
+6.1 DOGE
+100%
+--
+$0.99278
+Filled
+7/06/25 01:30:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16337
+6 DOGE
+98.756%
+--
+$0.98757
+Filled
+7/06/25 01:24:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16339
+6.1 DOGE
+100%
+--
+$0.98920
+Filled
+7/06/25 01:24:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16341
+6 DOGE
+98.781%
+--
+$0.98781
+Filled
+7/06/25 01:23:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16339
+6.1 DOGE
+100%
+--
+$0.98920
+Filled
+7/06/25 01:23:28
+Default
+DOGE-USD
+Market
+Buy
+$0.16346
+6 DOGE
+98.811%
+--
+$0.98811
+Filled
+7/06/25 01:11:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16374
+6.1 DOGE
+100%
+--
+$0.99132
+Filled
+7/06/25 01:05:28
+Default
+DOGE-USD
+Market
+Buy
+$0.16374
+6 DOGE
+98.98%
+--
+$0.98981
+Filled
+7/06/25 00:54:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16393
+6.1 DOGE
+100%
+--
+$0.99247
+Filled
+7/06/25 00:49:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16394
+6 DOGE
+99.101%
+--
+$0.99102
+Filled
+7/06/25 00:45:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16393
+6 DOGE
+100%
+--
+$0.97620
+Filled
+7/06/25 00:45:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16400
+6 DOGE
+99.138%
+--
+$0.99138
+Filled
+7/06/25 00:42:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16394
+6 DOGE
+100%
+--
+$0.97626
+Filled
+7/06/25 00:38:48
+Default
+DOGE-USD
+Market
+Buy
+$0.16401
+6 DOGE
+99.144%
+--
+$0.99144
+Filled
+7/06/25 00:31:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16411
+6 DOGE
+100%
+--
+$0.97728
+Filled
+7/06/25 00:28:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16413
+6 DOGE
+99.216%
+--
+$0.99217
+Filled
+7/06/25 00:27:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16409
+6 DOGE
+100%
+--
+$0.97716
+Filled
+7/06/25 00:23:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16408
+6 DOGE
+99.186%
+--
+$0.99186
+Filled
+7/06/25 00:19:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16417
+6 DOGE
+100%
+--
+$0.97763
+Filled
+7/06/25 00:14:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16416
+6 DOGE
+99.234%
+--
+$0.99235
+Filled
+7/06/25 00:08:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16419
+6.1 DOGE
+100%
+--
+$0.99405
+Filled
+7/06/25 00:00:08
+Default
+DOGE-USD
+Market
+Buy
+$0.16396
+6 DOGE
+99.113%
+--
+$0.99114
+Filled
+7/05/25 23:57:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16387
+6 DOGE
+100%
+--
+$0.97585
+Filled
+7/05/25 23:55:28
+Default
+DOGE-USD
+Market
+Buy
+$0.16393
+6 DOGE
+99.095%
+--
+$0.99096
+Filled
+7/05/25 23:47:48
+Default
+DOGE-USD
+Market
+Sell
+$0.16398
+6 DOGE
+100%
+--
+$0.97650
+Filled
+7/05/25 23:43:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16405
+6 DOGE
+99.168%
+--
+$0.99168
+Filled
+7/05/25 23:39:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16399
+6.1 DOGE
+100%
+--
+$0.99284
+Filled
+7/05/25 23:33:22
+Default
+DOGE-USD
+Market
+Buy
+$0.16377
+6 DOGE
+98.998%
+--
+$0.98999
+Filled
+7/05/25 23:33:21
+Default
+DOGE-USD
+Market
+Sell
+$0.16376
+6.1 DOGE
+100%
+--
+$0.99145
+Filled
+7/05/25 23:33:19
+Default
+DOGE-USD
+Market
+Buy
+$0.16378
+6 DOGE
+99.005%
+--
+$0.99005
+Filled
+7/05/25 23:33:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16377
+6.1 DOGE
+100%
+--
+$0.99150
+Filled
+7/05/25 23:33:15
+Default
+DOGE-USD
+Market
+Buy
+$0.16379
+6 DOGE
+99.011%
+--
+$0.99011
+Filled
+7/05/25 23:33:15
+Default
+DOGE-USD
+Market
+Sell
+$0.16379
+6 DOGE
+100%
+--
+$0.97537
+Filled
+7/05/25 23:33:12
+Default
+DOGE-USD
+Market
+Buy
+$0.16381
+6 DOGE
+99.023%
+--
+$0.99023
+Filled
+7/05/25 23:33:12
+Default
+DOGE-USD
+Market
+Sell
+$0.16380
+6 DOGE
+100%
+--
+$0.97543
+Filled
+7/05/25 23:33:10
+Default
+DOGE-USD
+Market
+Buy
+$0.16381
+6 DOGE
+99.023%
+--
+$0.99023
+Filled
+7/05/25 23:33:09
+Default
+DOGE-USD
+Market
+Sell
+$0.16380
+6 DOGE
+100%
+--
+$0.97544
+Filled
+7/05/25 23:33:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16382
+6 DOGE
+99.029%
+--
+$0.99029
+Filled
+7/05/25 23:33:07
+Default
+DOGE-USD
+Market
+Sell
+$0.16381
+6 DOGE
+100%
+--
+$0.97549
+Filled
+7/05/25 23:33:03
+Default
+DOGE-USD
+Market
+Buy
+$0.16382
+6 DOGE
+99.029%
+--
+$0.99029
+Filled
+7/05/25 23:25:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16407
+6 DOGE
+100%
+--
+$0.97703
+Filled
+7/05/25 23:21:58
+Default
+DOGE-USD
+Market
+Buy
+$0.16418
+6 DOGE
+99.246%
+--
+$0.99247
+Filled
+7/05/25 23:21:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16407
+6 DOGE
+100%
+--
+$0.97702
+Filled
+7/05/25 23:20:48
+Default
+DOGE-USD
+Market
+Buy
+$0.16417
+6 DOGE
+99.24%
+--
+$0.99241
+Filled
+7/05/25 23:19:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16408
+6.1 DOGE
+100%
+--
+$0.99339
+Filled
+7/05/25 23:11:28
+Default
+DOGE-USD
+Market
+Buy
+$0.16343
+6 DOGE
+98.793%
+--
+$0.98793
+Filled
+7/05/25 23:10:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16335
+6.1 DOGE
+100%
+--
+$0.98896
+Filled
+7/05/25 23:05:38
+Default
+DOGE-USD
+Market
+Buy
+$0.16332
+6 DOGE
+98.726%
+--
+$0.98727
+Filled
+7/05/25 23:01:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16330
+6.1 DOGE
+100%
+--
+$0.98866
+Filled
+7/05/25 22:59:28
+Default
+DOGE-USD
+Market
+Buy
+$0.16335
+6 DOGE
+98.745%
+--
+$0.98745
+Filled
+7/05/25 22:51:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16337
+6.1 DOGE
+100%
+--
+$0.98908
+Filled
+7/05/25 22:49:58
+Default
+DOGE-USD
+Market
+Buy
+$0.16345
+6 DOGE
+98.805%
+--
+$0.98806
+Filled
+7/05/25 22:49:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16339
+6.1 DOGE
+100%
+--
+$0.98920
+Filled
+7/05/25 22:45:18
+Default
+DOGE-USD
+Market
+Buy
+$0.16343
+6 DOGE
+98.793%
+--
+$0.98793
+Filled
+7/05/25 22:42:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16337
+6.1 DOGE
+100%
+--
+$0.98908
+Filled
+7/05/25 22:41:28
+Default
+DOGE-USD
+Market
+Buy
+$0.16344
+6 DOGE
+98.799%
+--
+$0.98799
+Filled
+7/05/25 22:32:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16361
+6.1 DOGE
+100%
+--
+$0.99054
+Filled
+7/05/25 22:32:08
+Default
+DOGE-USD
+Market
+Buy
+$0.16366
+6 DOGE
+98.932%
+--
+$0.98932
+Filled
+7/05/25 22:31:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16367
+6.1 DOGE
+100%
+--
+$0.99090
+Filled
+7/05/25 22:26:08
+Default
+DOGE-USD
+Market
+Buy
+$0.16366
+6 DOGE
+98.932%
+--
+$0.98932
+Filled
+7/05/25 22:24:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16360
+6.1 DOGE
+100%
+--
+$0.99048
+Filled
+7/05/25 22:23:48
+Default
+DOGE-USD
+Market
+Buy
+$0.16364
+6 DOGE
+98.92%
+--
+$0.98920
+Filled
+7/05/25 22:23:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16363
+6.1 DOGE
+100%
+--
+$0.99066
+Filled
+7/05/25 22:17:18
+Default
+DOGE-USD
+Market
+Buy
+$0.16360
+6 DOGE
+98.896%
+--
+$0.98896
+Filled
+7/05/25 22:15:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16349
+6.1 DOGE
+100%
+--
+$0.98981
+Filled
+7/05/25 22:14:48
+Default
+DOGE-USD
+Market
+Buy
+$0.16353
+6 DOGE
+98.853%
+--
+$0.98854
+Filled
+7/05/25 22:11:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16350
+6.1 DOGE
+100%
+--
+$0.98987
+Filled
+7/05/25 22:10:28
+Default
+DOGE-USD
+Market
+Buy
+$0.16359
+6 DOGE
+98.89%
+--
+$0.98890
+Filled
+7/05/25 22:02:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16365
+6.1 DOGE
+100%
+--
+$0.99078
+Filled
+7/05/25 21:55:28
+Default
+DOGE-USD
+Market
+Buy
+$0.16367
+6 DOGE
+98.938%
+--
+$0.98939
+Filled
+7/05/25 21:50:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16372
+6.1 DOGE
+100%
+--
+$0.99120
+Filled
+7/05/25 21:49:38
+Default
+DOGE-USD
+Market
+Buy
+$0.16374
+6 DOGE
+98.98%
+--
+$0.98981
+Filled
+7/05/25 21:47:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16366
+6.1 DOGE
+100%
+--
+$0.99084
+Filled
+7/05/25 21:42:38
+Default
+DOGE-USD
+Market
+Buy
+$0.16368
+6 DOGE
+98.944%
+--
+$0.98945
+Filled
+7/05/25 21:37:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16360
+6.1 DOGE
+100%
+--
+$0.99048
+Filled
+7/05/25 21:34:58
+Default
+DOGE-USD
+Market
+Buy
+$0.16372
+6 DOGE
+98.968%
+--
+$0.98969
+Filled
+7/05/25 21:21:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16382
+6.1 DOGE
+100%
+--
+$0.99181
+Filled
+7/05/25 21:19:48
+Default
+DOGE-USD
+Market
+Buy
+$0.16391
+6 DOGE
+99.083%
+--
+$0.99084
+Filled
+7/05/25 21:15:48
+Default
+DOGE-USD
+Market
+Sell
+$0.16390
+6 DOGE
+100%
+--
+$0.97602
+Filled
+7/05/25 21:13:08
+Default
+DOGE-USD
+Market
+Buy
+$0.16398
+6 DOGE
+99.125%
+--
+$0.99126
+Filled
+7/05/25 21:09:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16397
+6 DOGE
+100%
+--
+$0.97644
+Filled
+7/05/25 21:05:48
+Default
+DOGE-USD
+Market
+Buy
+$0.16395
+6 DOGE
+99.107%
+--
+$0.99108
+Filled
+7/05/25 21:05:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16394
+6.1 DOGE
+100%
+--
+$0.99253
+Filled
+7/05/25 21:02:58
+Default
+DOGE-USD
+Market
+Buy
+$0.16389
+6 DOGE
+99.071%
+--
+$0.99072
+Filled
+7/05/25 21:00:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16378
+6.1 DOGE
+100%
+--
+$0.99157
+Filled
+7/05/25 20:52:58
+Default
+DOGE-USD
+Market
+Buy
+$0.16367
+6 DOGE
+98.938%
+--
+$0.98939
+Filled
+7/05/25 20:52:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16360
+6.1 DOGE
+100%
+--
+$0.99048
+Filled
+7/05/25 20:51:18
+Default
+DOGE-USD
+Market
+Buy
+$0.16367
+6 DOGE
+98.938%
+--
+$0.98939
+Filled
+7/05/25 20:48:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16359
+6.1 DOGE
+100%
+--
+$0.99041
+Filled
+7/05/25 20:44:38
+Default
+DOGE-USD
+Market
+Buy
+$0.16358
+6 DOGE
+98.884%
+--
+$0.98884
+Filled
+7/05/25 20:41:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16354
+6.1 DOGE
+100%
+--
+$0.99011
+Filled
+7/05/25 20:34:38
+Default
+DOGE-USD
+Market
+Buy
+$0.16347
+6 DOGE
+98.817%
+--
+$0.98818
+Filled
+7/05/25 20:34:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16345
+6.1 DOGE
+100%
+--
+$0.98957
+Filled
+7/05/25 20:33:48
+Default
+DOGE-USD
+Market
+Buy
+$0.16345
+6 DOGE
+98.805%
+--
+$0.98806
+Filled
+7/05/25 20:30:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16345
+6.1 DOGE
+100%
+--
+$0.98957
+Filled
+7/05/25 20:27:08
+Default
+DOGE-USD
+Market
+Buy
+$0.16353
+6 DOGE
+98.853%
+--
+$0.98854
+Filled
+7/05/25 20:19:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16364
+6.1 DOGE
+100%
+--
+$0.99072
+Filled
+7/05/25 20:14:08
+Default
+DOGE-USD
+Market
+Buy
+$0.16370
+6 DOGE
+98.956%
+--
+$0.98957
+Filled
+7/05/25 20:13:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16357
+6.1 DOGE
+100%
+--
+$0.99029
+Filled
+7/05/25 20:11:08
+Default
+DOGE-USD
+Market
+Buy
+$0.16368
+6 DOGE
+98.944%
+--
+$0.98945
+Filled
+7/05/25 20:09:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16361
+6.1 DOGE
+100%
+--
+$0.99054
+Filled
+7/05/25 20:06:08
+Default
+DOGE-USD
+Market
+Buy
+$0.16357
+6 DOGE
+98.878%
+--
+$0.98878
+Filled
+7/05/25 20:05:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16354
+6.1 DOGE
+100%
+--
+$0.99011
+Filled
+7/05/25 20:04:48
+Default
+DOGE-USD
+Market
+Buy
+$0.16356
+6 DOGE
+98.872%
+--
+$0.98872
+Filled
+7/05/25 20:04:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16357
+6.1 DOGE
+100%
+--
+$0.99029
+Filled
+7/05/25 20:03:28
+Default
+DOGE-USD
+Market
+Buy
+$0.16358
+6 DOGE
+98.884%
+--
+$0.98884
+Filled
+7/05/25 20:01:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16356
+6.1 DOGE
+100%
+--
+$0.99023
+Filled
+7/05/25 20:01:28
+Default
+DOGE-USD
+Market
+Buy
+$0.16359
+6 DOGE
+98.89%
+--
+$0.98890
+Filled
+7/05/25 19:57:48
+Default
+DOGE-USD
+Market
+Sell
+$0.16363
+6.1 DOGE
+100%
+--
+$0.99066
+Filled
+7/05/25 19:56:58
+Default
+DOGE-USD
+Market
+Buy
+$0.16375
+6 DOGE
+98.986%
+--
+$0.98987
+Filled
+7/05/25 19:49:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16380
+6.1 DOGE
+100%
+--
+$0.99169
+Filled
+7/05/25 19:45:58
+Default
+DOGE-USD
+Market
+Buy
+$0.16383
+6 DOGE
+99.035%
+--
+$0.99035
+Filled
+7/05/25 19:43:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16377
+6 DOGE
+100%
+--
+$0.97525
+Filled
+7/05/25 19:42:48
+Default
+DOGE-USD
+Market
+Buy
+$0.16395
+6 DOGE
+99.107%
+--
+$0.99108
+Filled
+7/05/25 19:27:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16414
+6 DOGE
+100%
+--
+$0.97745
+Filled
+7/05/25 19:24:58
+Default
+DOGE-USD
+Market
+Buy
+$0.16415
+6 DOGE
+99.228%
+--
+$0.99229
+Filled
+7/05/25 19:24:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16408
+6 DOGE
+100%
+--
+$0.97710
+Filled
+7/05/25 19:22:28
+Default
+DOGE-USD
+Market
+Buy
+$0.16411
+6 DOGE
+99.204%
+--
+$0.99204
+Filled
+7/05/25 19:16:38
+Default
+DOGE-USD
+Market
+Sell
+$0.16425
+6 DOGE
+100%
+--
+$0.97811
+Filled
+7/05/25 19:15:08
+Default
+DOGE-USD
+Market
+Buy
+$0.16432
+6 DOGE
+99.331%
+--
+$0.99331
+Filled
+7/05/25 19:10:18
+Default
+DOGE-USD
+Market
+Sell
+$0.16436
+6 DOGE
+100%
+--
+$0.97876
+Filled
+7/05/25 19:08:48
+Default
+DOGE-USD
+Market
+Buy
+$0.16445
+6 DOGE
+99.41%
+--
+$0.99410
+Filled
+7/05/25 19:07:28
+Default
+DOGE-USD
+Market
+Sell
+$0.16439
+6 DOGE
+100%
+--
+$0.97894
+Filled
+7/05/25 19:02:48
+Default
+DOGE-USD
+Market
+Buy
+$0.16428
+6 DOGE
+99.307%
+--
+$0.99307
+Filled
+7/05/25 19:01:08
+Default
+DOGE-USD
+Market
+Sell
+$0.16418
+6 DOGE
+100%
+--
+$0.97769
+Filled
+7/05/25 19:00:38
+Default
+DOGE-USD
+Market
+Buy
+$0.16431
+6 DOGE
+99.325%
+--
+$0.99325
+Filled
+7/05/25 19:00:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16430
+6 DOGE
+100%
+--
+$0.97841
+Filled
+7/05/25 19:00:35
+Default
+DOGE-USD
+Market
+Buy
+$0.16430
+6 DOGE
+99.319%
+--
+$0.99319
+Filled
+7/05/25 19:00:35
+Default
+DOGE-USD
+Market
+Sell
+$0.16429
+6 DOGE
+100%
+--
+$0.97835
+Filled
+7/05/25 19:00:32
+Default
+DOGE-USD
+Market
+Buy
+$0.16431
+6 DOGE
+99.325%
+--
+$0.99325
+Filled
+7/05/25 19:00:31
+Default
+DOGE-USD
+Market
+Sell
+$0.16430
+6 DOGE
+100%
+--
+$0.97841
+Filled
+7/05/25 19:00:29
+Default
+DOGE-USD
+Market
+Buy
+$0.16430
+6 DOGE
+99.319%
+--
+$0.99319
+Filled
+7/05/25 19:00:29
+Default
+DOGE-USD
+Market
+Sell
+$0.16429
+6 DOGE
+100%
+--
+$0.97835
+Filled
+7/05/25 19:00:26
+Default
+DOGE-USD
+Market
+Buy
+$0.16430
+6 DOGE
+99.319%
+--
+$0.99319
+Filled
+7/05/25 19:00:26
+Default
+DOGE-USD
+Market
+Sell
+$0.16429
+6.1 DOGE
+100%
+--
+$0.99466
+Filled
+7/05/25 19:00:23
+Default
+DOGE-USD
+Market
+Buy
+$0.16431
+6 DOGE
+99.325%
+--
+$0.99325
+Filled
+7/05/25 19:00:23
+Default
+DOGE-USD
+Market
+Sell
+$0.16430
+6 DOGE
+100%
+--
+$0.97841
+Filled
+7/05/25 18:58:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16421
+6 DOGE
+99.264%
+--
+$0.99265
+Filled
+7/05/25 18:52:47
+Default
+DOGE-USD
+Market
+Sell
+$0.16420
+6 DOGE
+100%
+--
+$0.97781
+Filled
+7/05/25 18:51:17
+Default
+DOGE-USD
+Market
+Buy
+$0.16424
+6 DOGE
+99.283%
+--
+$0.99283
+Filled
+7/05/25 18:47:37
+Default
+DOGE-USD
+Market
+Sell
+$0.16423
+6 DOGE
+100%
+--
+$0.97799
+Filled
+7/05/25 18:47:07
+Default
+DOGE-USD
+Market
+Buy
+$0.16432
+6 DOGE
+99.331%
+--
+$0.99331
+Filled
+7/05/25 18:44:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16428
+6 DOGE
+100%
+--
+$0.97829
+Filled
+7/05/25 18:39:27
+Default
+DOGE-USD
+Market
+Buy
+$0.16427
+6 DOGE
+99.301%
+--
+$0.99301
+Filled
+7/05/25 18:37:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16414
+6 DOGE
+100%
+--
+$0.97745
+Filled
+7/05/25 18:36:47
+Default
+DOGE-USD
+Market
+Buy
+$0.16421
+6 DOGE
+99.264%
+--
+$0.99265
+Filled
+7/05/25 18:35:47
+Default
+DOGE-USD
+Market
+Sell
+$0.16416
+6 DOGE
+100%
+--
+$0.97757
+Filled
+7/05/25 18:32:37
+Default
+DOGE-USD
+Market
+Buy
+$0.16414
+6 DOGE
+99.222%
+--
+$0.99223
+Filled
+7/05/25 18:25:57
+Default
+DOGE-USD
+Market
+Sell
+$0.16420
+6 DOGE
+100%
+--
+$0.97781
+Filled
+7/05/25 18:23:27
+Default
+DOGE-USD
+Market
+Buy
+$0.16424
+6 DOGE
+99.283%
+--
+$0.99283
+Filled
+7/05/25 18:12:17
+Default
+DOGE-USD
+Market
+Sell
+$0.16435
+6 DOGE
+100%
+--
+$0.97870
+Filled
+7/05/25 18:09:57
+Default
+DOGE-USD
+Market
+Buy
+$0.16449
+6 DOGE
+99.434%
+--
+$0.99434
+Filled
+7/05/25 18:07:47
+Default
+DOGE-USD
+Market
+Sell
+$0.16449
+6 DOGE
+100%
+--
+$0.97954
+Filled
+7/05/25 18:02:58
+Default
+DOGE-USD
+Market
+Buy
+$0.16447
+6 DOGE
+99.422%
+--
+$0.99422
+Filled
+7/05/25 18:02:58
+Default
+DOGE-USD
+Market
+Sell
+$0.16446
+6 DOGE
+100%
+--
+$0.97936
+Filled
+7/05/25 18:02:55
+Default
+DOGE-USD
+Market
+Buy
+$0.16446
+6 DOGE
+99.416%
+--
+$0.99416
+Filled
+7/05/25 18:02:55
+Default
+DOGE-USD
+Market
+Sell
+$0.16445
+6.1 DOGE
+100%
+--
+$0.99562
+Filled
+7/05/25 18:02:52
+Default
+DOGE-USD
+Market
+Buy
+$0.16445
+6 DOGE
+99.41%
+--
+$0.99410
+Filled
+7/05/25 18:02:52
+Default
+DOGE-USD
+Market
+Sell
+$0.16444
+6.1 DOGE
+100%
+--
+$0.99556
+Filled
+7/05/25 18:02:49
+Default
+DOGE-USD
+Market
+Buy
+$0.16445
+6 DOGE
+99.41%
+--
+$0.99410
+Filled
