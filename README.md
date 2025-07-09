@@ -1,16 +1,25 @@
 # Fight Club
-
 **Weaponized AGI BOT  **
 
-- **3.5 year journey to build 3 things fueled with extreeme predjudice and revenge to fight back
-  1. Design a weapon to fight on the same feild in the same arena but with my odds
-  2. Fintech Quality is old and narrow Build today not yesterday  AGI Generated Capital (not trinket) (not a toy)
-  3. test it stable over and over DELIVER VALUE ---make it ---OPEN SOURCE ----let user place a VALUE as it serves them
+- **3.5 year journey to build 3 things fueled with extreeme predjudice, revenge to fight back against the system
+  1. Design a weapon ('s) to fight on the same feild in the same arena angainst the same players but bend the rukes in the users favor
+  2. Fintech Quality is old, dusty and paywalled- Retail quality is built on depracted code
+   2a. Build with todays tech using the language AI is built on 2025 (agent is not a real framework for fintech)
+   2b. LLM at a local console level (ORCA Oversight Regulator Comptroller Authoruty) for the entire ecosytem oversight and dynamic paramter manager accross frameworks
+   2c. No backtesting, no paper trading, no simmulated trading - 100% realtime live testing ONLY - real money - real trades - built for stagbility (TIME STAMPED LOGS)
+  3. ??? to do with your capital?   MyPyFi---waste of breath to explain get your GPT to in depth summarize MyPyFi then donate if you managed not to shit yourself
+   3a.  swapBot is a base framework shared by all bot on top an admin layer for agentOnly -remix exact build (run it throught the ringer---llm and i did on all test nets)
+   3b. SAM - simulated asset manager does a full asset breakdown from yfinance (in testing)
+   3c. Parameter Library----use your favaorite all time strategies and tune them by exposing their parameter into the already exposed parameter in swapBot
+
+$$$$ the catch do what was not extended to me - FIGHT against the crypto way ----the closed door----too high skill level---provide FIRST MOVER code  
+i started this journey unemployed carpenter (still) lucky for me i had an advantage over other because i clearly undesrtsood Python is a large Snake of South America 
 
     99% percent of all traders get wrecked so ask yourself are you the 1%
+    MOM is one the highest rated forms of swap strategies ever----combine them - tune them and automate all -- 
 
-- powered through your donations
-- USE IT- OWN IT- FORK iT- FUCK it -WRECK IT - RESET IT _ REPEAT 
+- powered by donation - eth /stables and tell a friend --   0xEf6C8c5C0368783A2EEe54a9f104861d29F72159
+- USE IT- OWN IT- FORK iT- FUCK it -WRECK IT - RESET IT - DONATE - REPEAT 
 
 - 
 -
