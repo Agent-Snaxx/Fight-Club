@@ -20,21 +20,15 @@ i started this journey unemployed carpenter (still) lucky for me i had an advant
 
 - powered by donation - eth /stables and tell a friend --   0xEf6C8c5C0368783A2EEe54a9f104861d29F72159
 - USE IT- OWN IT- FORK iT- FUCK it -WRECK IT - RESET IT - DONATE - REPEAT 
-
-- 
--
 -
 - Repo Notes:
 - MIT transparent not available for sale or resale
 - relevant framework with todays tech to swap with confidence
 - stop the crypto beatdowns and fight back  
--
--
+--
 - battle tested with match logs and more logs and charts
 - designed break even as neutral base use the tech to make it yours
 - NOT MY BUG -------Fix your own bugs.
-
-  
 
 > **“Do not trust in hope; it is forsaken in these lands.”**
 ---
@@ -62,8 +56,6 @@ i started this journey unemployed carpenter (still) lucky for me i had an advant
 
 - - **(For MyPyFi) New smart contract deployment:** unique name, web3 provider, verified ABI
 
-
----
 
 ## Support & Contributing
 
