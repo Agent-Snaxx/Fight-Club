@@ -29,23 +29,29 @@
 > **“Do not trust in hope; it is forsaken in these lands.”**
 ---
 
-## Repo Structure (coming soon)
+## Repo Structure (OPEN)
 
 - `agent/` – Solidity contracts, ERC-3525 logic, agent/slot management
 - `swap_bot/` – Python bot & analytics engine (ORCA, signal modules, execution)
 - `docs/` – Project rules, warnings, legal, API, usage
+-  logs
 - `assets/` – Badges, memes, visuals
 
 ---
 
 ## Requirements
 
-- **.env file** with your own CDP (Coinbase) API keys & permissions
-- **Coinbase Advance Trade account** (KYC required)
-- **OpenAI paid API key** (for agent/LLM features)
-- **(For MyPyFi) New smart contract deployment:** unique name, web3 provider, verified ABI
-- **Python 3.9+**, relevant packages (see requirements.txt)
-- **Skill and initiative. No hand-holding.**
+- CDP Python SDK
+- Coinbase Advance-PY SDK
+- CDP API KEYS (READ WRITE min permissions)
+- OPEN AI - API Key
+- Python 3.9+
+- (requirements text) python packages
+- local Virtual Python Enviorment
+- ENV file (sample proveided)
+
+- - **(For MyPyFi) New smart contract deployment:** unique name, web3 provider, verified ABI
+
 
 ---
 
@@ -69,8 +75,8 @@
 ## Ethos
 
 - **If you don’t find value, get the fuck out.**
-- **Skill required. No apologies.**
-- **If you win, prosper—and tell a friend.**
+- **Skill required. Not your teacher.**
+- **find value - donate and tell a friend.**
 
 ---
 
