@@ -16,13 +16,14 @@
 -
 -
 - Repo Notes:
-- this is MIT transparent not available first mover on so many levels mostly to break the crypto way
-- provide relevant framework for todays tech to swap at level you could not imagine rival old dust fintech bot
-- i had to teach myself where the answers are closely gaurded -paywalled or subscriptioned or flat fee
-- stop the crypto beatdowns and fight back with weapons of the digital age 
+- MIT transparent not available for sale or resale
+- relevant framework with todays tech to swap with confidence
+- stop the crypto beatdowns and fight back  
 -
 -
-- battle tested with match logs and more logs and charts NOT MY BUG -------Fix your own bugs.
+- battle tested with match logs and more logs and charts
+- designed break even as neutral base use the tech to make it yours
+- NOT MY BUG -------Fix your own bugs.
 
   
 
@@ -34,7 +35,7 @@
 - `agent/` – Solidity contracts, ERC-3525 logic, agent/slot management
 - `swap_bot/` – Python bot & analytics engine (ORCA, signal modules, execution)
 - `docs/` – Project rules, warnings, legal, API, usage
--  logs
+-  logs/ 24 logs. LLM logs, adding long term logs
 - `assets/` – Badges, memes, visuals
 
 ---
