@@ -1,13 +1,11 @@
 # Fight Club
 
-**Weaponized AGI BOT – Bend the Odds – Make the Rules **
-
----
+**Weaponized AGI BOT  **
 
 - **3.5 year journey to build 3 things fueled with extreeme predjudice and revenge to fight back
   1. Design a weapon to fight on the same feild in the same arena but with my odds
-  2. Fintech Quality is old and narrow Build today not yesterday  AGI Generated Capital (not trinkets or value) 
-  3. test it stable over and over neutral for shipping to empower the crypto community to flip the odds 
+  2. Fintech Quality is old and narrow Build today not yesterday  AGI Generated Capital (not trinket) (not a toy)
+  3. test it stable over and over DELIVER VALUE ---make it ---OPEN SOURCE ----let user place a VALUE as it serves them
 
     99% percent of all traders get wrecked so ask yourself are you the 1%
 
